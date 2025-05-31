@@ -74,26 +74,6 @@ const Contact = () => {
           ))}
         </div>
       </div>
-      
-      <footer className="footer fade-in">
-        <div className="footer-content">
-          <p>&copy; 2024 Bo-Chun Wen. All rights reserved.</p>
-          <div className="social-links">
-            <a href="mailto:bochunwen810802@gmail.com" aria-label="Email">
-              <i className="fas fa-envelope"></i>
-            </a>
-            <a href="https://linkedin.com/in/bochunwen" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-              <i className="fab fa-linkedin"></i>
-            </a>
-            <a href="https://line.me/ti/p/~zz0802" target="_blank" rel="noopener noreferrer" aria-label="Line">
-              <i className="fab fa-line"></i>
-            </a>
-            <a href="https://github.com/bochunwen810802" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-              <i className="fab fa-github"></i>
-            </a>
-          </div>
-        </div>
-      </footer>
     </section>
   )
 }
